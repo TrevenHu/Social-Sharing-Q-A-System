@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\thread1.o
+./release\thread2.o
+./release\thread3.o
+./release\thread4.o
+./release\moc_mainwindow.o
+./release\moc_thread1.o
+./release\moc_thread2.o
+./release\moc_thread3.o
+./release\moc_thread4.o
+);

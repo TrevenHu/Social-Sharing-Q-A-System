@@ -1,0 +1,13 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\thread1.o
+./debug\thread2.o
+./debug\thread3.o
+./debug\thread4.o
+./debug\moc_mainwindow.o
+./debug\moc_thread1.o
+./debug\moc_thread2.o
+./debug\moc_thread3.o
+./debug\moc_thread4.o
+);
